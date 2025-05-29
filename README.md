@@ -13,7 +13,7 @@ Data analysis project aims to generate insights into sales performance of the E-
 
 ### Tools used
 
-- Microsoft Excel for data cleaning [Download Here](https://www.microsoft)
+- Microsoft Excel for data cleaning [Download Here](https://www.microsoft.com)
    -  For Data Collection
    -  For Data Cleaning
       - Data Manipulation
