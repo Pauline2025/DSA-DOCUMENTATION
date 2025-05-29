@@ -25,3 +25,6 @@ Data analysis project aims to generate insights into sales performance of the E-
 
 - Ms Powerpoint (for presentation)
 
+  ## Data Cleaning and Preparation
+  In the initial phase of data cleaning and preparations, we perform the following action; 
+
